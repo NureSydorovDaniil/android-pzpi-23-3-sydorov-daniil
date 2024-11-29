@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">My Application№2</string>
-    <string name="button_text_one">кнопка 1</string>
-    <string name="button_text_two">кнопка 2</string>
-    <string name="button_text_three">кнопка 3</string>
-    <string name="textView_text">Hello world!</string>
-</resources>
